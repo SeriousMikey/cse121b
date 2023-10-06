@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = "Michael Paul Hyer";
 let currentYear = "2023";
-let profilePicture = "../images/me.jpg";
+let profilePicture = "../cse121b/images/me.jpg";
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
